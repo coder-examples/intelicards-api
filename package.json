@@ -1,0 +1,17 @@
+{
+  "name": "digicard-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Test",
+    "start": "node index.js",
+    "publish": "publish Edit"
+  },
+  "author": "Aayush Shah",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}

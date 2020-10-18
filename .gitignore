@@ -1,0 +1,6 @@
+# Modules
+node_modules/
+# Upload Script
+*.bat
+# Misc
+.idea/
