@@ -77,9 +77,8 @@ const cards = [
             ]
         },
         payment: {
-            paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAo\n' +
-                'JT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUB\n' +
-                'h6DN5amHLLqwkatz5VM='
+                paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
+                upiId: 'lovedarsh5185@oksbi'
         }
     },
     {
@@ -174,9 +173,8 @@ const cards = [
             ]
         },
         payment: {
-            paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAo\n' +
-                'JT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUB\n' +
-                'h6DN5amHLLqwkatz5VM='
+                paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
+                upiId: 'lovedarsh5185@oksbi'
         }
     },
     {
@@ -271,9 +269,8 @@ const cards = [
             ]
         },
         payment: {
-            paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAo\n' +
-                'JT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUB\n' +
-                'h6DN5amHLLqwkatz5VM='
+                paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
+                upiId: 'lovedarsh5185@oksbi'
         }
     },
     {
@@ -956,9 +953,8 @@ const cards = [
             ]
         },
         payment: {
-            paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAo\n' +
-                'JT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUB\n' +
-                'h6DN5amHLLqwkatz5VM='
+                paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
+                upiId: 'lovedarsh5185@oksbi'
         }
     },
     {
@@ -1053,9 +1049,8 @@ const cards = [
             ]
         },
         payment: {
-            paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAo\n' +
-                'JT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUB\n' +
-                'h6DN5amHLLqwkatz5VM='
+                paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
+                upiId: 'lovedarsh5185@oksbi'
         }
     },
     {
@@ -1150,9 +1145,8 @@ const cards = [
             ]
         },
         payment: {
-            paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAo\n' +
-                'JT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUB\n' +
-                'h6DN5amHLLqwkatz5VM='
+                paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
+                upiId: 'lovedarsh5185@oksbi'
         }
     },
     {
