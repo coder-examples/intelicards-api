@@ -1259,16 +1259,16 @@ const cards = [
             type: 'serv',
             items: [
                 {
-                    text: 'Finance'
+                    text: 'Micro-Website'
                 },
                 {
-                    text: 'Accounting'
+                    text: 'Website Designing'
                 },
                 {
-                    text: 'ITR Filing'
+                    text: 'Website Development'
                 },
                 {
-                    text: 'Paperless KYC'
+                    text: 'Dynamic Website Development'
                 }
             ]
         }
