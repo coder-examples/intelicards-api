@@ -23,6 +23,7 @@ const cards = [
         },
         about: {
             nature: 'Finance',
+            custom: true,
             specialities: [
                 {
                     text: 'Finance'
@@ -77,7 +78,7 @@ const cards = [
             ]
         },
         payment: {
-             paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
+            paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
             upiId: 'lovedarsh5185@oksbi'
         },
         bank: {
@@ -112,6 +113,7 @@ const cards = [
         },
         about: {
             nature: 'Chartered Accountants',
+            custom: true,
             specialities: [
                 {
                     text: 'Value Added Services'
@@ -181,7 +183,7 @@ const cards = [
             ]
         },
         payment: {
-             paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
+            paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
             upiId: 'lovedarsh5185@oksbi'
         },
         bank: {
@@ -216,6 +218,7 @@ const cards = [
         },
         about: {
             nature: 'Chartered Accountants',
+            custom: true,
             specialities: [
                 {
                     text: 'Value Added Services'
@@ -285,7 +288,7 @@ const cards = [
             ]
         },
         payment: {
-             paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
+            paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
             upiId: 'lovedarsh5185@oksbi'
         },
         bank: {
@@ -321,6 +324,7 @@ const cards = [
         },
         about: {
             nature: 'Travels & Services',
+            custom: true,
             specialities: [
                 {
                     text: 'Flight Booking'
@@ -437,6 +441,7 @@ const cards = [
         },
         about: {
             nature: 'Travels & Services',
+            custom: true,
             specialities: [
                 {
                     text: 'Flight Booking'
@@ -556,6 +561,7 @@ const cards = [
         },
         about: {
             nature: 'Travels & Services',
+            custom: true,
             specialities: [
                 {
                     text: 'Flight Booking'
@@ -675,6 +681,7 @@ const cards = [
         },
         about: {
             nature: 'Travels & Services',
+            custom: true,
             specialities: [
                 {
                     text: 'Flight Booking'
@@ -792,6 +799,7 @@ const cards = [
         },
         about: {
             nature: 'Travels & Services',
+            custom: true,
             specialities: [
                 {
                     text: 'Flight Booking'
@@ -908,6 +916,7 @@ const cards = [
         },
         about: {
             nature: 'Chartered Accountants',
+            custom: true,
             specialities: [
                 {
                     text: 'Value Added Services'
@@ -977,7 +986,7 @@ const cards = [
             ]
         },
         payment: {
-             paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
+            paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
             upiId: 'lovedarsh5185@oksbi'
         },
         bank: {
@@ -1012,6 +1021,7 @@ const cards = [
         },
         about: {
             nature: 'Chartered Accountants',
+            custom: true,
             specialities: [
                 {
                     text: 'Value Added Services'
@@ -1081,7 +1091,7 @@ const cards = [
             ]
         },
         payment: {
-             paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
+            paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
             upiId: 'lovedarsh5185@oksbi'
         },
         bank: {
@@ -1116,6 +1126,7 @@ const cards = [
         },
         about: {
             nature: 'Chartered Accountants',
+            custom: true,
             specialities: [
                 {
                     text: 'Value Added Services'
@@ -1185,7 +1196,7 @@ const cards = [
             ]
         },
         payment: {
-             paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
+            paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
             upiId: 'lovedarsh5185@oksbi'
         },
         bank: {
@@ -1221,16 +1232,20 @@ const cards = [
         },
         about: {
             nature: 'Information Technology',
+            custom: false,
             specialities: [
                 {
                     text: 'Digital Cards / Micro Websites'
                 }
             ],
-            description: [
-                {
-                    text: 'About us'
-                }
-            ]
+            template: 'general',
+            info: {
+                orgName: 'Inteli Tech',
+                startDate: '2020',
+                partners: 'Aayush Shah',
+                dealingIn: 'IT',
+                locations: 'Kolhapur'
+            }
         },
         gallery: {
             photos: [
