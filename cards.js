@@ -1244,7 +1244,8 @@ const cards = [
                 startDate: '2020',
                 partners: 'Aayush Shah',
                 dealingIn: 'IT',
-                locations: 'Kolhapur'
+                locations: 'Kolhapur',
+                objective: 'simple and easy to use services'
             }
         },
         gallery: {
