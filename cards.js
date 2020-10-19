@@ -77,8 +77,16 @@ const cards = [
             ]
         },
         payment: {
-                paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
-                upiId: 'lovedarsh5185@oksbi'
+             paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
+            upiId: 'lovedarsh5185@oksbi'
+        },
+        bank: {
+             bankname: 'SBI',
+             ifsc: 222,
+             acName: 'Amit Shah',
+             acNum: 249556249,
+             pan: 'AN979466D94',
+             gstin: 46597665
         }
     },
     {
@@ -173,8 +181,16 @@ const cards = [
             ]
         },
         payment: {
-                paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
-                upiId: 'lovedarsh5185@oksbi'
+             paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
+            upiId: 'lovedarsh5185@oksbi'
+        },
+        bank: {
+             bankname: 'SBI',
+             ifsc: 222,
+             acName: 'Amit Shah',
+             acNum: 249556249,
+             pan: 'AN979466D94',
+             gstin: 46597665
         }
     },
     {
@@ -269,8 +285,16 @@ const cards = [
             ]
         },
         payment: {
-                paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
-                upiId: 'lovedarsh5185@oksbi'
+             paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
+            upiId: 'lovedarsh5185@oksbi'
+        },
+        bank: {
+             bankname: 'SBI',
+             ifsc: 222,
+             acName: 'Amit Shah',
+             acNum: 249556249,
+             pan: 'AN979466D94',
+             gstin: 46597665
         }
     },
     {
@@ -953,8 +977,16 @@ const cards = [
             ]
         },
         payment: {
-                paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
-                upiId: 'lovedarsh5185@oksbi'
+             paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
+            upiId: 'lovedarsh5185@oksbi'
+        },
+        bank: {
+             bankname: 'SBI',
+             ifsc: 222,
+             acName: 'Amit Shah',
+             acNum: 249556249,
+             pan: 'AN979466D94',
+             gstin: 46597665
         }
     },
     {
@@ -1049,8 +1081,16 @@ const cards = [
             ]
         },
         payment: {
-                paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
-                upiId: 'lovedarsh5185@oksbi'
+             paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
+            upiId: 'lovedarsh5185@oksbi'
+        },
+        bank: {
+             bankname: 'SBI',
+             ifsc: 222,
+             acName: 'Amit Shah',
+             acNum: 249556249,
+             pan: 'AN979466D94',
+             gstin: 46597665
         }
     },
     {
@@ -1145,8 +1185,16 @@ const cards = [
             ]
         },
         payment: {
-                paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
-                upiId: 'lovedarsh5185@oksbi'
+             paytmMerchantId: '+huM1AUuk+vG1GuWAKLn68VlUpekvkR3pr/TJV6rd1qDoW7Cu4Gs2Sh6xtC9B2Z+BNsGR/rqTJAoJT8gn3ymh+dxJcNtMi48l5Gt1vowVAXHJgD9EX0vCh+9nRL8xV6F39m9eZRQyq9vGFCFyMCPIwUBh6DN5amHLLqwkatz5VM=',
+            upiId: 'lovedarsh5185@oksbi'
+        },
+        bank: {
+             bankname: 'SBI',
+             ifsc: 222,
+             acName: 'Amit Shah',
+             acNum: 249556249,
+             pan: 'AN979466D94',
+             gstin: 46597665
         }
     },
     {
