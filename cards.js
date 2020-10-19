@@ -82,7 +82,7 @@ const cards = [
         },
         bank: {
              bankname: 'SBI',
-             ifsc: 222,
+             ifsc: 'SBIN00007249',
              acName: 'Amit Shah',
              acNum: 249556249,
              pan: 'AN979466D94',
@@ -186,7 +186,7 @@ const cards = [
         },
         bank: {
              bankname: 'SBI',
-             ifsc: 222,
+             ifsc: 'SBIN00007249',
              acName: 'Amit Shah',
              acNum: 249556249,
              pan: 'AN979466D94',
@@ -290,7 +290,7 @@ const cards = [
         },
         bank: {
              bankname: 'SBI',
-             ifsc: 222,
+             ifsc: 'SBIN00007249',
              acName: 'Amit Shah',
              acNum: 249556249,
              pan: 'AN979466D94',
@@ -982,7 +982,7 @@ const cards = [
         },
         bank: {
              bankname: 'SBI',
-             ifsc: 222,
+             ifsc: 'SBIN00007249',
              acName: 'Amit Shah',
              acNum: 249556249,
              pan: 'AN979466D94',
@@ -1086,7 +1086,7 @@ const cards = [
         },
         bank: {
              bankname: 'SBI',
-             ifsc: 222,
+             ifsc: 'SBIN00007249',
              acName: 'Amit Shah',
              acNum: 249556249,
              pan: 'AN979466D94',
@@ -1190,7 +1190,7 @@ const cards = [
         },
         bank: {
              bankname: 'SBI',
-             ifsc: 222,
+             ifsc: 'SBIN00007249',
              acName: 'Amit Shah',
              acNum: 249556249,
              pan: 'AN979466D94',
