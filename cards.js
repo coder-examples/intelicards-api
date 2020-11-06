@@ -1232,21 +1232,22 @@ const cards = [
         },
         about: {
             nature: 'Information Technology',
-            custom: false,
             specialities: [
                 {
                     text: 'Digital Cards / Micro Websites'
                 }
             ],
-            template: 'general',
-            info: {
-                orgName: 'Inteli Tech',
-                startDate: '2020',
-                partners: 'Aayush Shah',
-                dealingIn: 'IT',
-                locations: 'Kolhapur',
-                objective: 'simple and easy to use services'
-            }
+            description: [
+                {
+                    text: "Inteli Tech is an Indian tech company engaged in various tech solutions specialised in Web Site Development, Powerpoint Presentations preparation, Designing and Animating the PPTs of our clients for various business project presentations."
+                },
+                {
+                    text: "Inteli Tech philosophy to help small businesses with affordable & smart solutions to Empower Businesses in India."
+                },
+                {
+                    text: "#MadeInIndia #Affordable #SmallBusiness"
+                }
+            ]
         },
         gallery: {
             photos: [
@@ -1417,21 +1418,22 @@ const cards = [
         },
         about: {
             nature: 'Information Technology',
-            custom: false,
             specialities: [
                 {
                     text: 'Digital Cards / Micro Websites'
                 }
             ],
-            template: 'general',
-            info: {
-                orgName: 'Inteli Tech',
-                startDate: '2020',
-                partners: 'Aayush Shah',
-                dealingIn: 'IT',
-                locations: 'Kolhapur',
-                objective: 'simple and easy to use services'
-            }
+            description: [
+                {
+                    text: "Inteli Tech is an Indian tech company engaged in various tech solutions specialised in Web Site Development, Powerpoint Presentations preparation, Designing and Animating the PPTs of our clients for various business project presentations."
+                },
+                {
+                    text: "Inteli Tech philosophy to help small businesses with affordable & smart solutions to Empower Businesses in India."
+                },
+                {
+                    text: "#MadeInIndia #Affordable #SmallBusiness"
+                }
+            ]
         },
         gallery: {
             photos: [
