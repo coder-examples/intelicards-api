@@ -1405,7 +1405,7 @@ const cards = [
         logo: 'https://i.imgur.com/iOVLAhV.pngg',
         email: 'admin@myintelicard.com',
         address: '138/2, E Ward, Assembly Road, Kolhapur, Maharashtra',
-        phone: '918484925705',
+        phone: '8484925705',
         whatsapp: '918484925705',
         map: 'https://goo.gl/maps/51Nmmv3SsgaQaBTX7',
         post: 'Business Development Officer',
