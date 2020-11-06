@@ -1223,7 +1223,7 @@ const cards = [
         phone: '918087277494',
         whatsapp: '8087277494',
         map: 'https://goo.gl/maps/51Nmmv3SsgaQaBTX7',
-        post: 'Developer',
+        post: 'Owner',
         vcf: 'https://res.cloudinary.com/intelicards/raw/upload/v1594825671/AayushShah.vcf',
         social_media: {
             facebook: 'https://www.facebook.com/InteliCards-110223967409865/',
@@ -1272,7 +1272,192 @@ const cards = [
                 }
             ]
         }
-    }
+    },
+    {
+        id: 13,
+        Salutation: 'Mr.',
+        firstname: 'Kaushal',
+        lastname: 'Shah',
+        animation: 'art',
+        website: 'https://www.ananyatravelsservices.com',
+        company: 'Ananya Travels & Services',
+        theme: 'animate',
+        bg: 'https://i.imgur.com/mVQ7Y1m.jpg',
+        textColor: 'purple',
+        logo: 'https://www.ananyatravelsservices.com/images/ananya-logo.png',
+        email: 'ananyatravelsservices@gmail.com',
+        address: '655, E Ward, Sai Darshan Tower Shop No.S-4, Near Subhash Photo Opp Govt.Servent Bank, 3rd Lane,Shahupuri, Kolhapur - 416001.Maharashtra, India.',
+        phone: '+919822299089',
+        whatsapp: '9822299089',
+        map: 'https://goo.gl/maps/51Nmmv3SsgaQaBTX7',
+        post: 'Proprietor',
+        vcf: 'https://www.visionmoneymantra.com/vcf/kaushal.vcf',
+        social_media: {
+            facebook: 'https://www.facebook.com/Ananyatravelsservices/',
+            insta: '',
+            twitter: ''
+        },
+        about: {
+            nature: 'Travels & Services',
+            custom: true,
+            specialities: [
+                {
+                    text: 'Flight Booking'
+                },
+                {
+                    text: 'Train Booking'
+                },
+                {
+                    text: 'Bus Booking'
+                },
+                {
+                    text: 'Rental Car'
+                }
+            ],
+            description: [
+                {
+                    text: 'Ananya Travels & Services - one of the leading travel agent/local tour operators in Kolhapur offering you a complete range of Tour and Travel Services in Maharashtra and Konkan. We are providing an exciting range of Holiday Tour Packages in Maharashtra and Konkan to various Holiday Destinations. '
+                },
+                {
+                    text: 'Ananya Travels & Services is a platform that provides all domestic and international bookings of the airplane. We are going above and beyond involves making customers feel special and helping them by providing a booking facility for the railway.'
+                },
+                {
+                    text: 'Ananya Travels & Services has a tradition of making four-wheeler available to beloved clients on rent basis.With the blessings of Shri Mahalaxmi Goddess, we like to introduce Ananya Travels & Services, a leading travel agent in Kolhapur that Arranges for a sophisticated and high standard service that will make us the most preferred travel agent firm in Kolhapur. Whether you are traveling for business or taking pleasure of holidays you will be assured of quality cars and a wide range of services that make us your first choice car rental in Kolhapur. We are specialized in Pune or Mumbai Air Port Pick and Drop Services.'
+                },
+                {
+                    text: 'We offer all types of travel vehicles from four-seater up to 18-seater at less price.'
+                }
+            ]
+        },
+        gallery: {
+            photos: [
+                {
+                    img: 'https://www.ananyatravelsservices.com/admin/uploaded_image/flight-booking.jpg'
+                },
+                {
+                    img: 'https://www.ananyatravelsservices.com/admin/uploaded_image/railway.jpg'
+                },
+                {
+                    img: 'https://www.ananyatravelsservices.com/img/stbus.jpg'
+                },
+                {
+                    img: 'https://www.ananyatravelsservices.com/img/car/fortuner.jpg'
+                },
+                {
+                    img: 'https://www.ananyatravelsservices.com/ananyaimages/passport.jpg'
+                },
+                {
+                    img: 'https://www.ananyatravelsservices.com/ananyaimages/helicopter_Pawan_Hans.jpg'
+                },
+                {
+                    img: 'https://www.ananyatravelsservices.com/ananyaimages/visa-booking.jpg'
+                }
+            ]
+        },
+        products: {
+            type: 'serv',
+            items: [
+                {
+                    text: 'Flight Booking'
+                },
+                {
+                    text: 'Train Booking'
+                },
+                {
+                    text: 'Bus Booking'
+                },
+                {
+                    text: 'Rental Car'
+                },
+                {
+                    text: 'Cruise Booking'
+                },
+                {
+                    text: 'K.K. Travels'
+                },
+                {
+                    text: 'Passport Booking'
+                },
+                {
+                    text: 'Visa Services'
+                },
+                {
+                    text: 'Helicopter Booking'
+                },
+                {
+                    text: 'Tirupati Special Entry Darshan Pass'
+                },
+                {
+                    text: 'Tour packages'
+                }
+            ]
+        }
+    },
+    {
+        id: 14,
+        color: 'peach',
+        Salutation: 'Mrs.',
+        firstname: 'Manisha',
+        lastname: 'Pawar',
+        company: 'InteliCards',
+        theme: 'gradient',
+        website: 'https://www.myintelicard.com',
+        logo: 'https://i.imgur.com/iOVLAhV.pngg',
+        email: 'admin@myintelicard.com',
+        address: '138/2, E Ward, Assembly Road, Kolhapur, Maharashtra',
+        phone: '918087277494',
+        whatsapp: '8087277494',
+        map: 'https://goo.gl/maps/51Nmmv3SsgaQaBTX7',
+        post: 'Business Development Officer',
+        vcf: 'https://res.cloudinary.com/intelicards/raw/upload/v1594825671/AayushShah.vcf',
+        social_media: {
+            facebook: 'https://www.facebook.com/InteliCards-110223967409865/',
+            insta: 'https://www.instagram.com/inteli_tech/',
+            youtube: 'https://www.youtube.com/channel/UCFXGRwSKFcZQFnxbt2H2fYA'
+        },
+        about: {
+            nature: 'Information Technology',
+            custom: false,
+            specialities: [
+                {
+                    text: 'Digital Cards / Micro Websites'
+                }
+            ],
+            template: 'general',
+            info: {
+                orgName: 'Inteli Tech',
+                startDate: '2020',
+                partners: 'Aayush Shah',
+                dealingIn: 'IT',
+                locations: 'Kolhapur',
+                objective: 'simple and easy to use services'
+            }
+        },
+        gallery: {
+            photos: [
+                {
+                    img: 'https://www.printrust.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/s/t/standard_visiting_card-min.jpg'
+                }
+            ]
+        },
+        products: {
+            type: 'serv',
+            items: [
+                {
+                    text: 'Micro-Website'
+                },
+                {
+                    text: 'Website Designing'
+                },
+                {
+                    text: 'Website Development'
+                },
+                {
+                    text: 'Dynamic Website Development'
+                }
+            ]
+        }
+    },
 ];
 
 module.exports = cards;
