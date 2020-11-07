@@ -1468,7 +1468,8 @@ const cards = [
                 locations: 'Kolhapur',
                 dealingIn: 'technology',
                 staff: '2',
-                objectives: 'best tech services to our clients'
+                objectives: 'best tech services to our clients',
+                services: 'micro-websites and web designing.'
             }
         },
         gallery: {
