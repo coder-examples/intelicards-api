@@ -852,6 +852,11 @@ const cards = [
                 {
                     img: 'https://www.ananyatravelsservices.com/ananyaimages/visa-booking.jpg'
                 }
+            ],
+            videos: [
+                {
+                    id: 'L6FIaaM1DOc'
+                }
             ]
         },
         products: {
