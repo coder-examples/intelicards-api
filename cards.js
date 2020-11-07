@@ -1470,6 +1470,7 @@ const cards = [
             youtube: 'https://www.youtube.com/channel/UCFXGRwSKFcZQFnxbt2H2fYA'
         },
         about: {
+            custom: false,
             nature: 'Information Technology',
             specialities: [
                 {
