@@ -863,17 +863,17 @@ const cards = [
             type: 'serv',
             items: [
                 {
-                    img: '',
+                    img: 'https://imgk.timesnownews.com/story/1569479945-airline_thinkstock_flight_flights_airlines.jpg?tr=w-1200,h-900',
                     text: 'Flight Booking',
                     desc: 'Book Flights'
                 },
                 {
-                    img: '',
+                    img: 'https://imgk.timesnownews.com/story/1569479945-airline_thinkstock_flight_flights_airlines.jpg?tr=w-1200,h-900',
                     text: 'Train Booking',
                     desc: 'Book train tickets'
                 },
                 {
-                    img: '',
+                    img: 'https://imgk.timesnownews.com/story/1569479945-airline_thinkstock_flight_flights_airlines.jpg?tr=w-1200,h-900',
                     text: 'Bus Booking',
                     desc: 'Book Bus tickets'
                 },
