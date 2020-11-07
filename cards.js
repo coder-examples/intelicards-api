@@ -1447,6 +1447,70 @@ const cards = [
             ]
         }
     },
+    {
+        id: 15,
+        color: 'peach',
+        Salutation: 'Mrs.',
+        firstname: 'Manisha',
+        lastname: 'Pawar',
+        company: 'InteliCards',
+        theme: 'gradient',
+        website: 'https://www.myintelicard.com',
+        logo: 'https://i.imgur.com/iOVLAhV.pngg',
+        email: 'admin@myintelicard.com',
+        address: '138/2, E Ward, Assembly Road, Kolhapur, Maharashtra',
+        phone: '8484925705',
+        whatsapp: '918484925705',
+        map: 'https://goo.gl/maps/51Nmmv3SsgaQaBTX7',
+        post: 'Business Development Officer',
+        vcf: 'https://res.cloudinary.com/intelicards/raw/upload/v1594825671/AayushShah.vcf',
+        social_media: {
+            facebook: 'https://www.facebook.com/InteliCards-110223967409865/',
+            insta: 'https://www.instagram.com/inteli_tech/',
+            youtube: 'https://www.youtube.com/channel/UCFXGRwSKFcZQFnxbt2H2fYA'
+        },
+        about: {
+            nature: 'Information Technology',
+            specialities: [
+                {
+                    text: 'Digital Cards / Micro Websites'
+                }
+            ],
+            info: {
+                orgName: 'InteliCards',
+                startDate: '2020',
+                partners: 'Aayush Shah',
+                locations: 'Kolhapur',
+                dealingIn: 'technology',
+                staff: '2',
+                objectives: 'best tech services to our clients'
+            }
+        },
+        gallery: {
+            photos: [
+                {
+                    img: 'https://www.printrust.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/s/t/standard_visiting_card-min.jpg'
+                }
+            ]
+        },
+        products: {
+            type: 'serv',
+            items: [
+                {
+                    text: 'Micro-Website'
+                },
+                {
+                    text: 'Website Designing'
+                },
+                {
+                    text: 'Website Development'
+                },
+                {
+                    text: 'Dynamic Website Development'
+                }
+            ]
+        }
+    },
 ];
 
 module.exports = cards;
