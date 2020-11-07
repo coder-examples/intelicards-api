@@ -1246,19 +1246,11 @@ const cards = [
         products: {
             type: 'serv',
             items: [
-                {
-                    text: 'Micro-Website'
-                },
-                {
-                    text: 'Website Designing'
-                },
-                {
-                    text: 'Website Development'
-                },
-                {
-                    text: 'Dynamic Website Development'
-                }
-            ]
+    {
+       text: 'Micro-website',
+       img: 'https://www.printrust.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/s/t/standard_visiting_card-min.jpg'
+    }
+]
         }
     },
     {
@@ -1432,19 +1424,11 @@ const cards = [
         products: {
             type: 'serv',
             items: [
-                {
-                    text: 'Micro-Website'
-                },
-                {
-                    text: 'Website Designing'
-                },
-                {
-                    text: 'Website Development'
-                },
-                {
-                    text: 'Dynamic Website Development'
-                }
-            ]
+    {
+       text: 'Micro-website',
+       img: 'https://www.printrust.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/s/t/standard_visiting_card-min.jpg'
+    }
+]
         }
     },
     {
@@ -1470,7 +1454,6 @@ const cards = [
             youtube: 'https://www.youtube.com/channel/UCFXGRwSKFcZQFnxbt2H2fYA'
         },
         about: {
-            custom: false,
             nature: 'Information Technology',
             specialities: [
                 {
@@ -1497,19 +1480,11 @@ const cards = [
         products: {
             type: 'serv',
             items: [
-                {
-                    text: 'Micro-Website'
-                },
-                {
-                    text: 'Website Designing'
-                },
-                {
-                    text: 'Website Development'
-                },
-                {
-                    text: 'Dynamic Website Development'
-                }
-            ]
+    {
+       text: 'Micro-website',
+       img: 'https://www.printrust.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/s/t/standard_visiting_card-min.jpg'
+    }
+]
         }
     },
 ];
