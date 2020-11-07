@@ -1469,7 +1469,7 @@ const cards = [
                 dealingIn: 'technology',
                 staff: '2',
                 objectives: 'best tech services to our clients',
-                wideRange: 'services like micro-websites and web designing.'
+                wideRange: 'services like micro-websites and web designing'
             }
         },
         gallery: {
