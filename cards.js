@@ -1455,6 +1455,7 @@ const cards = [
         },
         about: {
             nature: 'Information Technology',
+            default: true,
             specialities: [
                 {
                     text: 'Digital Cards / Micro Websites'
