@@ -863,38 +863,20 @@ const cards = [
             type: 'serv',
             items: [
                 {
-                    text: 'Flight Booking'
+                    img: '',
+                    text: 'Flight Booking',
+                    desc: 'Book Flights'
                 },
                 {
-                    text: 'Train Booking'
+                    img: '',
+                    text: 'Train Booking',
+                    desc: 'Book train tickets'
                 },
                 {
-                    text: 'Bus Booking'
+                    img: '',
+                    text: 'Bus Booking',
+                    desc: 'Book Bus tickets'
                 },
-                {
-                    text: 'Rental Car'
-                },
-                {
-                    text: 'Cruise Booking'
-                },
-                {
-                    text: 'K.K. Travels'
-                },
-                {
-                    text: 'Passport Booking'
-                },
-                {
-                    text: 'Visa Services'
-                },
-                {
-                    text: 'Helicopter Booking'
-                },
-                {
-                    text: 'Tirupati Special Entry Darshan Pass'
-                },
-                {
-                    text: 'Tour packages'
-                }
             ]
         }
     },
