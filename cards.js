@@ -1465,11 +1465,11 @@ const cards = [
                 orgName: 'InteliCards',
                 startDate: '2020',
                 partners: 'Aayush Shah',
-                locations: 'Kolhapur',
+                locations: 'at  Kolhapur',
                 dealingIn: 'technology',
                 staff: '2',
                 objectives: 'best tech services to our clients',
-                services: 'micro-websites and web designing.'
+                wideRange: 'services like micro-websites and web designing.'
             }
         },
         gallery: {
