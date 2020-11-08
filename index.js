@@ -5,8 +5,6 @@ const cards = require('./cards.min.js')
 const app = express();
 app.use(cors());
 
-app.set('json spaces', 2)
-
 app.get('/', cors(), (req, res) => {
     res.header("Content-Type",'application/json');
     res.send(cards);
