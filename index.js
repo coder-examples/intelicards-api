@@ -1,6 +1,6 @@
 const express = require('express');
 const cors = require('cors');
-const cards = require('./cards.js')
+const cards = require('./cards.min.js')
 
 const app = express();
 app.use(cors());

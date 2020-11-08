@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo Test",
     "start": "node index.js",
+    "deploy": "scripts/publish.bat",
     "publish": "publish Edit"
   },
   "author": "Aayush Shah",
