@@ -1517,8 +1517,8 @@ const cards = [
         phone: '+919850694744',
         whatsapp: '919850694744',
         map: 'https://goo.gl/maps/51Nmmv3SsgaQaBTX7',
-        post: 'Woner',
-        vcf: 'https://www.visionmoneymantra.com/vcf/kaushal.vcf',
+        post: 'Owner and Beautician',
+        vcf: 'https://vcard-host.vercel.app/manisha-rathod.vcf',
         social_media: {
             facebook: 'https://www.facebook.com/alisha.kavthekar.3'
         },
