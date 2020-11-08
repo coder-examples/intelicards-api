@@ -1556,7 +1556,7 @@ const cards = [
         gallery: {
             photos: [
                 {
-                    img: 'https://lh6.googleusercontent.com/dRspWsycg7scILL0YfxLNn5VKO3w4iS4stelMm2Hqs3xY1HWKv_NQ-u07Nz2m-27NYpNsnM2wta9qPlOuvrQ=w1920-h832-rw'
+                    img: 'https://i.ibb.co/R4R168S/IMG-20201108-WA0023-Manisha-Rathod.jpg'
                 }
             ],
             videos: [
