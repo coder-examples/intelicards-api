@@ -1572,34 +1572,44 @@ const cards = [
             type: 'serv',
             items: [
                 {
-                    text: 'PageAdvance hair cutting'
+                    text: 'PageAdvance Hair Cutting',
+                    img: 'https://static-bebeautiful-in.unileverservices.com/styles/amp_metadata_content_image_min_696px_wide/s3/8-Amazing_MobileHomeFeature.jpg?itok=TwFNM1F0'
                 },
                 {
-                    text: 'flowery highlights'
+                    text: 'Flowery Highlights',
+                    img: 'https://wellywoman.files.wordpress.com/2012/09/dsc09021.jpg'
                 },
                 {
-                    text: 'global hair colouring'
+                    text: 'Global Hair Colouring',
+                    img: 'https://www.wearegurgaon.com/wp-content/uploads/2020/03/global-hair-colour-levante-salon-gurgaon.jpg'
                 },
                 {
-                    text: 'hair straightening'
+                    text: 'Hair Straightening',
+                    img: 'https://images-na.ssl-images-amazon.com/images/I/716K%2BCfXFHL._SX466_.jpg'
                 },
                 {
-                    text: 'keratin treatment'
+                    text: 'Keratin Treatment',
+                    img: 'https://cdn.shopify.com/s/files/1/2028/2057/articles/Keratin_1024x400.jpg?v=1584696949'
                 },
                 {
-                    text: 'Manicure'
+                    text: 'Manicure',
+                    img: 'https://www.headlinersinc.com/wp-content/uploads/2018/01/banner-17-1024x787.jpg'
                 },
                 {
-                    text: 'Pedicure'
+                    text: 'Pedicure',
+                    img: 'https://s3.india.com/wp-content/uploads/2020/05/DIY-pedicure-.jpg'
                 },
                 {
-                    text: 'Waxing'
+                    text: 'Waxing',
+                    img: 'https://img.grouponcdn.com/iam/43ng8opp18hxhJxjjuQcj45jGomD/43-2048x1229/v1/c700x420.jpg'
                 },
                 {
-                    text: 'All Skin Type Facial'
+                    text: 'All Skin Type Facial',
+                    img: 'https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F14%2F2019%2F02%2F20%2F022019-hydrafacial-lead.jpg&q=85'
                 },
                 {
-                    text: 'Make-up'
+                    text: 'Make-up',
+                    img: 'https://post.healthline.com/wp-content/uploads/2020/04/makeup_composition_overhead-732x549-thumbnail.jpg'
                 }
             ]
         }
