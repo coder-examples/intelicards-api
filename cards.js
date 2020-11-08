@@ -1503,6 +1503,107 @@ const cards = [
             ]
         }
     },
+    {
+        id: 16,
+        preserveLogoShape: true,
+        Salutation: 'Mrs.',
+        firstname: 'Alisha',
+        lastname: 'Kavthekar',
+        company: 'Alisha\'s Salon',
+        theme: 'trans',
+        logo: 'https://i.ibb.co/3StQsWQ/IMG-20201108-WA0002-Manisha-Rathod.jpg',
+        email: 'alishakavthekar@gmail.com',
+        address: 'Alisha\'s Salon, Near Sai Video center, Unchgaon, Kolhapur',
+        phone: '+919850694744',
+        whatsapp: '919850694744',
+        map: 'https://goo.gl/maps/51Nmmv3SsgaQaBTX7',
+        post: 'Woner',
+        vcf: 'https://www.visionmoneymantra.com/vcf/kaushal.vcf',
+        social_media: {
+            facebook: 'https://www.facebook.com/alisha.kavthekar.3'
+        },
+        about: {
+            nature: 'Salon',
+            specialities: [
+                {
+                    text: 'Facial'
+                },
+                {
+                    text: 'Herbal Facial'
+                },
+                {
+                    text: 'Gold Facial'
+                },
+                {
+                    text: 'Pearl Facial'
+                },
+                {
+                    text: 'D-Tan Facial'
+                },
+                {
+                    text: 'O3 Facial'
+                },
+                {
+                    text: 'Skin-tightening Facial'
+                }
+            ],
+            description: [
+                {
+                    text: 'Advance hair cutting, flowery highlights, global hair colouring, hair straightening, keratin treatment, manicure, pedicure, waxing, All skin types facial, makeup Time 9 to 9'
+                }
+            ]
+        },
+        gallery: {
+            photos: [
+                {
+                    img: 'https://lh6.googleusercontent.com/dRspWsycg7scILL0YfxLNn5VKO3w4iS4stelMm2Hqs3xY1HWKv_NQ-u07Nz2m-27NYpNsnM2wta9qPlOuvrQ=w1920-h832-rw'
+                }
+            ],
+            videos: [
+                {
+                    id: 'uVyHP95gLjM'
+                },
+                {
+                    id: 'Y_X6M5QYtlA'
+                }
+            ]
+        },
+        products: {
+            type: 'serv',
+            items: [
+                {
+                    text: 'PageAdvance hair cutting'
+                },
+                {
+                    text: 'flowery highlights'
+                },
+                {
+                    text: 'global hair colouring'
+                },
+                {
+                    text: 'hair straightening'
+                },
+                {
+                    text: 'keratin treatment'
+                },
+                {
+                    text: 'Manicure'
+                },
+                {
+                    text: 'Pedicure'
+                },
+                {
+                    text: 'Waxing'
+                },
+                {
+                    text: 'All Skin Type Facial'
+                },
+                {
+                    text: 'Make-up'
+                }
+            ]
+        }
+    },
 ];
 
 module.exports = cards;
