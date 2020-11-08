@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo Test",
-    "start": "node index.js",
+    "start": "node index.min.js",
     "deploy": "scripts/publish.bat",
     "publish": "publish Edit"
   },
