@@ -272,25 +272,32 @@ const cards = [
             type: 'serv',
             items: [
                 {
-                    text: 'Income Tax Consultation, Return Filing, Tax Audits'
+                    text: 'Income Tax Consultation, Return Filing, Tax Audits',
+                    img: 'https://upload.wikimedia.org/wikipedia/en/6/6b/Hello_Web_Series_%28Wordmark%29_Logo.png'
                 },
                 {
-                    text: 'GST Consultation, Audits, Reconciltation Services '
+                    text: 'GST Consultation, Audits, Reconciltation Services ',
+                    img: 'https://upload.wikimedia.org/wikipedia/en/6/6b/Hello_Web_Series_%28Wordmark%29_Logo.png'
                 },
                 {
-                    text: 'Salary ITR Filing'
+                    text: 'Salary ITR Filing',
+                    img: 'https://upload.wikimedia.org/wikipedia/en/6/6b/Hello_Web_Series_%28Wordmark%29_Logo.png'
                 },
                 {
-                    text: 'Project Report'
+                    text: 'Project Report',
+                    img: 'https://upload.wikimedia.org/wikipedia/en/6/6b/Hello_Web_Series_%28Wordmark%29_Logo.png'
                 },
                 {
-                    text: 'Partnership Deed Drafting, ROF Registration'
+                    text: 'Partnership Deed Drafting, ROF Registration',
+                    img: 'https://upload.wikimedia.org/wikipedia/en/6/6b/Hello_Web_Series_%28Wordmark%29_Logo.png'
                 },
                 {
-                    text: 'Company Incorporation'
+                    text: 'Company Incorporation',
+                    img: 'https://upload.wikimedia.org/wikipedia/en/6/6b/Hello_Web_Series_%28Wordmark%29_Logo.png'
                 },
                 {
-                    text: 'Other services like PAN, TDS Return Filing, MSME Registration, Labour Law Consultation'
+                    text: 'Other services like PAN, TDS Return Filing, MSME Registration, Labour Law Consultation',
+                    img: 'https://upload.wikimedia.org/wikipedia/en/6/6b/Hello_Web_Series_%28Wordmark%29_Logo.png'
                 }
             ]
         },
