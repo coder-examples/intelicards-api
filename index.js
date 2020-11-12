@@ -5,8 +5,9 @@ const cards = require('./cards.min.js')
 const app = express();
 app.use(cors());
 
-app.get('/', cors(), function(req, res) {
+app.get('/', function(req, res) {
     res.header("Content-Type",'application/json');
+    res.header('Access-Control-Allow-Origin', 'https://www.myintelicard.com')
     res.send(cards);
 })
 
