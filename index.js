@@ -11,8 +11,6 @@ app.get('/', function(req, res) {
     res.send(cards);
 })
 
-app.use('/sitemap.txt', express.static('./sitemap.txt'));
-
 const port = process.env.PORT;
 
 app.listen(port, function () {
